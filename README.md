@@ -1,8 +1,8 @@
+# NLP UdeSA Vault
+
 <p align="center">
   <img src="icon.png" alt="NLP Vault Knowledge Graph" width="600">
 </p>
-
-# NLP Vault
 
 An Obsidian knowledge base with 75 interconnected notes covering Natural Language Processing and Large Language Models — from foundational concepts to modern architectures.
 
