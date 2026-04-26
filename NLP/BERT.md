@@ -57,4 +57,4 @@ No se usa para generar texto.
 
 ## Relación con otros conceptos
 
-Arquitectura encoder de [[Transformers]]. Precursor de [[RoBERTa]], [[ELECTRA]], y [[Embeddings Contextuales]]. Contraste con [[GPT]] (decoder-only). Base del [[Fine-Tuning]] moderno.
+Arquitectura encoder de [[Transformers]]. Precursor de [[RoBERTa]], [[ELECTRA]], [[DeBERTa]], y [[Embeddings Contextuales]]. Contraste con [[GPT]] (decoder-only). Base del [[Fine-Tuning]] moderno.
