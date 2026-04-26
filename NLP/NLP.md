@@ -15,9 +15,13 @@ Este vault contiene notas de estudio sobre NLP, desde fundamentos hasta modelos 
 - [[Semántica Distribucional]]
 - [[Semántica vectorial]]
 - [[Representation Learning]]
+- [[Cómo Generamos Buenas Representaciones]]
+- [[Representando Entidades]]
+- [[Representación Simbólica del Conocimiento]]
 - [[Word Embeddings]]
 - [[Tokenización]]
 - [[N-grams]]
+- [[Prediciendo con N-Grams]]
 - [[Perplexity]]
 - [[Métricas]]
 
@@ -26,8 +30,11 @@ Este vault contiene notas de estudio sobre NLP, desde fundamentos hasta modelos 
 ### Estáticos
 - [[Embeddings Estáticos]]
 - [[Word2Vec]]
-- [[GloVe]]
+- [[CBOW]]
+- [[Skip-gram]]
 - [[Negative Sampling]]
+- [[Term-Context Matrix]]
+- [[GloVe]]
 
 ### Contextuales
 - [[Embeddings Contextuales]]
@@ -36,24 +43,41 @@ Este vault contiene notas de estudio sobre NLP, desde fundamentos hasta modelos 
 ## Modelos de Lenguaje
 
 - [[Modelos de Lenguaje]]
+- [[La Necesidad de Memoria]]
 - [[Modelos de Lenguaje con Redes Neuronales]]
+
+## RNNs
+
 - [[RNNs]]
+- [[Exploding y Vanishing Gradients]]
 - [[LSTMs]]
+- [[Seq2Seq]]
 
-## Atención y Transformers
+## Atención
 
+- [[Mecanismo de Atención]]
 - [[Attention]]
+- [[Queries, Keys y Values]]
 - [[Self-Attention]]
 - [[Multi-Head Attention]]
 - [[Positional Encodings]]
-- [[LayerNorm]]
 - [[Causal Masking]]
+
+## Transformers
+
 - [[Transformers]]
+- [[LayerNorm]]
+- [[Encoder (Transformers)]]
+- [[Decoder (Transformers)]]
+- [[Decoder-Only]]
 
 ## Modelos Encoder
 
+- [[Pre Training]]
+- [[Modelo de Lenguaje Enmascarado (MLM)]]
 - [[BERT]]
 - [[RoBERTa]]
+- [[DeBERTa]]
 - [[ELECTRA]]
 
 ## Modelos Decoder
@@ -65,7 +89,6 @@ Este vault contiene notas de estudio sobre NLP, desde fundamentos hasta modelos 
 
 ## Modelos Encoder-Decoder
 
-- [[Seq2Seq]]
 - [[T5]]
 - [[BART]]
 
@@ -76,9 +99,8 @@ Este vault contiene notas de estudio sobre NLP, desde fundamentos hasta modelos 
 - [[KV Caching]]
 - [[Teacher Forcing]]
 
-## Entrenamiento y Adaptación
+## Adaptación
 
-- [[Pre Training]]
 - [[Transfer Learning]]
 - [[Fine-Tuning]]
 - [[Instruction Tuning]]
@@ -101,7 +123,7 @@ Este vault contiene notas de estudio sobre NLP, desde fundamentos hasta modelos 
 - [[Destilación]]
 - [[Datos Sintéticos]]
 
-## Arquitectura Avanzada
+## Eficiencia
 
 - [[Mixture of Experts]]
 
