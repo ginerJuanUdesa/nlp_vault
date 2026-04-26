@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "2ecda716e9f362f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "de974defb109cde7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d5f9568c98f4c7b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a82f02907e4816e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "03726fd85e8b63e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb1dfc60873d9a4d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "350edb5144a23a84",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6c400c8ac43ff67c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "189d2b519a773993",
+    "type": "split",
+    "children": [
+      {
+        "id": "9719a069871c155c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f7bcaa3f32f3010",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "0f61b50c294d91f2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "59150cc14036b50a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "724ff5ff683e4144",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d03e4261f951d9ae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "9d5f9568c98f4c7b",
+  "lastOpenFiles": [
+    "Decoder (Transformers).md",
+    "CBOW.md",
+    "Mecanismo de Atención.md",
+    "Modelo de Lenguaje Enmascarado (MLM).md",
+    "Decoder-Only.md",
+    "Encoder (Transformers).md",
+    "Queries, Keys y Values.md",
+    "Exploding y Vanishing Gradients.md",
+    "La Necesidad de Memoria.md",
+    "Prediciendo con N-Grams.md",
+    "Term-Context Matrix.md",
+    "Skip-gram.md",
+    "Representación Simbólica del Conocimiento.md",
+    "Cómo Generamos Buenas Representaciones.md",
+    "Representando Entidades.md",
+    "Semántica vectorial.md",
+    "Muestreo.md",
+    "Generación de Texto.md",
+    "Multi-Head Attention.md",
+    "RoBERTa.md",
+    "NLP.md",
+    "GPT OSS.md",
+    "Capacidades Emergentes.md",
+    "Teacher Forcing.md",
+    "Self-Attention.md",
+    "Causal Masking.md",
+    "attachments/image66.png",
+    "attachments/image23.png",
+    "attachments/image150.png",
+    "attachments/image83.png",
+    "attachments/image40.png",
+    "attachments/image49.png",
+    "attachments/image101.png",
+    "attachments/image127.png",
+    "attachments/image144.png",
+    "attachments/image187.png",
+    "attachments",
+    "Untitled",
+    "Untitled.canvas",
+    "Datos Sintéticos.md.tmp.139594.1777221989507",
+    "Perplexity.md.tmp.139594.1777221988837",
+    "Métricas.md.tmp.139594.1777221987698",
+    "In-Context Learning.md.tmp.139594.1777221986933",
+    "Destilación.md.tmp.139594.1777221986204",
+    "RAG.md.tmp.139594.1777221985063",
+    "Mitigar Alucinaciones.md.tmp.139594.1777221984252",
+    "Alucinaciones.md.tmp.139594.1777221983502"
+  ]
+}
