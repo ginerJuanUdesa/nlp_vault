@@ -13,9 +13,6 @@ Mecanismo que agrega información de posición a los embeddings de entrada para 
 
 ## Funcionamiento
 
-![[attachments/image65.png]]
-![[attachments/image67.png]]
-![[attachments/image69.png]]
 
 ### ¿Por qué son necesarios?
 

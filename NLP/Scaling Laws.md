@@ -12,7 +12,6 @@ Relaciones predecibles entre el tamaño del modelo, la cantidad de datos, el có
 
 ## Funcionamiento
 
-![[attachments/image169.png]]
 
 ### Hallazgo principal
 

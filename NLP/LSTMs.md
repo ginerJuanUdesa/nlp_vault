@@ -12,10 +12,6 @@ color: "#2980B9"
 
 ## Funcionamiento
 
-![[attachments/image120.png]]
-![[attachments/image23.png]]
-![[attachments/image87.png]]
-![[attachments/image107.png]]
 
 ### Concepto
 

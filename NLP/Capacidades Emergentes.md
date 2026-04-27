@@ -12,7 +12,6 @@ Capacidades que aparecen de forma inesperada al escalar los modelos en tamaño, 
 
 ## Características
 
-![[attachments/image81.png]]
 
 No son programadas explícitamente. Aparecen como consecuencia de:
 - Escalar el número de parámetros

@@ -13,9 +13,6 @@ color: "#2980B9"
 
 ## Funcionamiento
 
-![[attachments/image110.png]]
-![[attachments/image164.png]]
-![[attachments/image177.png]]
 
 ### Tarea de preentrenamiento: MLM
 

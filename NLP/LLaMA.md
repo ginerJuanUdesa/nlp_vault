@@ -13,7 +13,6 @@ color: "#2980B9"
 
 ## Funcionamiento
 
-![[attachments/image21.png]]
 
 ### Arquitectura
 

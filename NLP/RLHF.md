@@ -13,9 +13,6 @@ color: "#8E44AD"
 
 ## Proceso
 
-![[attachments/image9.png]]
-![[attachments/image101.png]]
-![[attachments/image159.png]]
 
 ### 1. Generación y Ranking
 

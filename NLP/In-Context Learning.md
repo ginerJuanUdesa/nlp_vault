@@ -12,10 +12,6 @@ Capacidad de un LLM de aprender a realizar una nueva tarea sin modificar sus pes
 
 ## Funcionamiento
 
-![[attachments/image140.png]]
-![[attachments/image172.png]]
-![[attachments/image62.png]]
-![[attachments/image81.png]]
 
 Al escalar mucho los modelos decoder-only como GPT-3 en parámetros, datos y cómputo, empiezan a aparecer capacidades de in-context learning.
 

@@ -10,10 +10,6 @@ color: "#27AE60"
 
 > "Palabras que ocurren en contextos parecidos tienen significados parecidos"
 
-![[attachments/image150.png]]
-![[attachments/image185.png]]
-![[attachments/image34.png]]
-![[attachments/image78.png]]
 
 ## Principio
 

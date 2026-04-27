@@ -13,7 +13,6 @@ Componente del Transformer que procesa la secuencia de entrada y produce represe
 
 ## Arquitectura
 
-![[attachments/image122.png]]
 
 El encoder está formado por `N` bloques iguales apilados, donde cada uno tiene dos subcapas principales:
 

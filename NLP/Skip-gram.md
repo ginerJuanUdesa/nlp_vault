@@ -13,8 +13,6 @@ Variante de [[Word2Vec]] que predice el contexto dadas las palabras.
 
 ## Funcionamiento
 
-![[attachments/image126.png]]
-![[attachments/image147.png]]
 
 Skip-gram toma la palabra central y aprende a predecir las palabras de contexto alrededor. La ventana de contexto es un hiperparámetro. El modelo tiene dos matrices de embeddings:
 

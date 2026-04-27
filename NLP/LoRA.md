@@ -12,7 +12,6 @@ color: "#4D7BCC"
 
 ## Funcionamiento
 
-![[attachments/image143.png]]
 
 ### Idea
 

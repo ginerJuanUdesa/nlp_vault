@@ -12,10 +12,6 @@ El self-attention es el mecanismo propio de los Transformers que permite calcula
 
 ## Funcionamiento
 
-![[attachments/image144.png]]
-![[attachments/image153.png]]
-![[attachments/image175.png]]
-![[attachments/image33.png]]
 
 A partir de los embeddings de entrada se proyectan tres matrices:
 
@@ -30,7 +26,6 @@ A partir de los embeddings de entrada se proyectan tres matrices:
 3. Se aplica softmax para obtener pesos de atención
 4. Se multiplica por V para obtener la salida
 
-![[attachments/image72.png]]
 
 ### ¿Por qué escalar por √d_k?
 

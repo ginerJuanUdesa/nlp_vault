@@ -12,7 +12,6 @@ La destilación de LLMs busca transferir parte del conocimiento de un modelo gra
 
 ## Funcionamiento
 
-![[attachments/image71.png]]
 
 ### Proceso
 1. El modelo grande ("maestro") genera salidas o datos

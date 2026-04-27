@@ -12,11 +12,6 @@ color: "#2980B9"
 
 ## Funcionamiento
 
-![[attachments/image14.png]]
-![[attachments/image53.png]]
-![[attachments/image99.png]]
-![[attachments/image163.png]]
-![[attachments/image171.png]]
 
 ### Características
 

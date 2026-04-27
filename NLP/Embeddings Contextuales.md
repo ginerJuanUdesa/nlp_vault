@@ -12,11 +12,6 @@ El vector de una palabra depende de su contexto en la oración.
 
 ## Concepto
 
-![[attachments/image103.png]]
-![[attachments/image136.png]]
-![[attachments/image138.png]]
-![[attachments/image174.png]]
-![[attachments/image182.png]]
 
 En cada instante `t`, el modelo combina la entrada actual con el estado oculto anterior para construir la representación. Esto permite que la misma palabra tenga vectores distintos según el contexto.
 

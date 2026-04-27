@@ -12,8 +12,6 @@ Datos generados artificialmente, usualmente usando un LLM grande, para reducir c
 
 ## Proceso
 
-![[attachments/image45.png]]
-![[attachments/image6.png]]
 
 1. Se le dan muchas instrucciones o prompts a un LLM grande
 2. El modelo genera respuestas candidatas

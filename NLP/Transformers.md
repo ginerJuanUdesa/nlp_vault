@@ -12,9 +12,6 @@ Arquitectura revolucionaria basada en mecanismos de atención que reemplazó a l
 
 ## Funcionamiento
 
-![[attachments/image108.png]]
-![[attachments/image122.png]]
-![[attachments/image149.png]]
 
 ### Arquitectura
 

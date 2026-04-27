@@ -13,10 +13,6 @@ Familia de técnicas para aprender embeddings de palabras entrenando redes neuro
 
 ## Funcionamiento
 
-![[attachments/image161.png]]
-![[attachments/image133.png]]
-![[attachments/image126.png]]
-![[attachments/image147.png]]
 
 ### CBOW - Continuous Bag of Words
 

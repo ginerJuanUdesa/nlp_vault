@@ -13,7 +13,6 @@ GPT-2 fue un salto importante respecto de GPT-1 porque escaló en casi todas las
 
 ## Arquitectura
 
-![[attachments/image130.png]]
 
 Arquitectura decoder-only estándar de [[Transformers]] con [[Self-Attention]] causal.
 

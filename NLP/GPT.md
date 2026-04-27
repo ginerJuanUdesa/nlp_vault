@@ -13,7 +13,6 @@ color: "#2980B9"
 
 ## Arquitectura
 
-![[attachments/image80.png]]
 
 En vez de tener un encoder que construye una representación completa, los tokens de entrada se procesan directamente en el decoder. Usa self-attention causal: cada posición puede mirar solo a los tokens anteriores (y a sí misma), pero no a los futuros.
 

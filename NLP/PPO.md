@@ -12,9 +12,6 @@ color: "#8E44AD"
 
 ## Funcionamiento en RLHF
 
-![[attachments/image13.png]]
-![[attachments/image30.png]]
-![[attachments/image41.png]]
 
 La dificultad es que el [[Reward Model]] solo devuelve un score escalar para una respuesta completa, pero no indica explícitamente qué token cambiar.
 

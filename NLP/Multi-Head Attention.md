@@ -12,9 +12,6 @@ Mecanismo que permite al modelo atender desde múltiples subespacios de represen
 
 ## Funcionamiento
 
-![[attachments/image11.png]]
-![[attachments/image50.png]]
-![[attachments/image94.png]]
 
 En vez de un solo cálculo de atención, el modelo ejecuta `h` cálculos en paralelo:
 

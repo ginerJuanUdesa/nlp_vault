@@ -12,8 +12,6 @@ color: "#8E44AD"
 
 ## Funcionamiento
 
-![[attachments/image112.png]]
-![[attachments/image29.png]]
 
 ### Idea central
 

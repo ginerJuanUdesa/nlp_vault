@@ -13,9 +13,6 @@ Arquitectura que divide el modelo en múltiples "expertos" especializados, activ
 
 ## Funcionamiento
 
-![[attachments/image36.png]]
-![[attachments/image73.png]]
-![[attachments/image92.png]]
 
 ### Concepto
 

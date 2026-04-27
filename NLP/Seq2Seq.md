@@ -13,7 +13,6 @@ color: "#2980B9"
 
 ## Funcionamiento
 
-![[attachments/image35.png]]
 
 ### Concepto
 

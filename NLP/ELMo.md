@@ -13,8 +13,6 @@ color: "#27AE60"
 
 ## Funcionamiento
 
-![[attachments/image12.png]]
-![[attachments/image96.png]]
 
 ### Arquitectura
 

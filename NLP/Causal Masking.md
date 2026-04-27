@@ -13,7 +13,6 @@ Mecanismo que impide que los tokens vean información del futuro durante el entr
 
 ## Funcionamiento
 
-![[attachments/image82.png]]
 
 ### Concepto
 

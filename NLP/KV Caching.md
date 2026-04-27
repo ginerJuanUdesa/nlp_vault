@@ -13,8 +13,6 @@ Técnica de optimización para la inferencia de modelos de lenguaje que almacena
 
 ## Funcionamiento
 
-![[attachments/image116.png]]
-![[attachments/image155.png]]
 
 ### Problema
 

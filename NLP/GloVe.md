@@ -13,9 +13,6 @@ color: "#27AE60"
 
 ## Funcionamiento
 
-![[attachments/image158.png]]
-![[attachments/image176.png]]
-![[attachments/image28.png]]
 
 ### Diferencia con Word2Vec
 

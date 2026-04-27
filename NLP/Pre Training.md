@@ -12,10 +12,6 @@ Fase inicial de entrenamiento de un modelo de lenguaje en grandes volúmenes de 
 
 ## Funcionamiento
 
-![[attachments/image5.png]]
-![[attachments/image105.png]]
-![[attachments/image121.png]]
-![[attachments/image148.png]]
 
 ### Proceso
 

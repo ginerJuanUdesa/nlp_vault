@@ -12,8 +12,6 @@ Técnica de entrenar un modelo en una tarea general y luego reutilizarlo en tare
 
 ## Concepto
 
-![[attachments/image54.png]]
-![[attachments/image168.png]]
 
 El aprendizaje transferido permite que un modelo entrenado en una tarea grande y general (preentrenamiento) pueda ser adaptado eficientemente para tareas más específicas.
 

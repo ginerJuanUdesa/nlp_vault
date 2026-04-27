@@ -13,9 +13,6 @@ Modelo encoder-only como [[BERT]] pero con tarea de preentrenamiento distinta: e
 
 ## Funcionamiento
 
-![[attachments/image129.png]]
-![[attachments/image4.png]]
-![[attachments/image40.png]]
 
 ### Problema con MLM
 

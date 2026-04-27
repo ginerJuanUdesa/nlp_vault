@@ -13,9 +13,6 @@ color: "#2980B9"
 
 ## Funcionamiento
 
-![[attachments/image42.png]]
-![[attachments/image49.png]]
-![[attachments/image114.png]]
 
 ### Tareas de preentrenamiento
 

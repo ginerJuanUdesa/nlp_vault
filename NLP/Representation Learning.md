@@ -12,10 +12,6 @@ Aprendizaje de representaciones útiles de datos sin supervisión explícita.
 
 ## Concepto
 
-![[attachments/image59.png]]
-![[attachments/image90.png]]
-![[attachments/image113.png]]
-![[attachments/image118.png]]
 
 ### Idea central
 

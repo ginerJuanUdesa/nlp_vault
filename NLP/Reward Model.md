@@ -12,9 +12,6 @@ Modelo que aprende a determinar con un score qué tan buena es una respuesta, ba
 
 ## Funcionamiento
 
-![[attachments/image9.png]]
-![[attachments/image101.png]]
-![[attachments/image159.png]]
 
 Reward modeling es la etapa en la que se entrena un modelo para evaluar respuestas según preferencias humanas. No genera texto como el LLM principal, sino que devuelve un puntaje.
 
